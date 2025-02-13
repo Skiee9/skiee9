@@ -12,7 +12,7 @@
 - 🎨 Passionate about creating **beautiful & user-friendly web applications**  
 - 📚 Always learning & improving my skills in **APIs & JavaScript frameworks**  
 - 💡 Exploring **React & UI/UX design principles**  
-- 📩 Reach me at: [pareekp.tech@gmail.com](mailto:pareekp.tech@gmail.com)  
+- 📩 Reach me at: [chaudharyayushi785@gmail.com](mailto:chaudharyayushi785@gmail.com)
 
 ---
 
@@ -31,25 +31,17 @@
 </p>
 ---
 
-### 📌 **Projects**
-🌟 **[BugBerry](https://pareekpriya.github.io/BugBerry_fulstack_Project/)** – Built with **HTML, CSS, JavaScript and API integration**  
 
 
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pareekpriya&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pareekpriya&theme=tokyonight" />
-</p>
 
 ---
+
+
 
 ### 📫 **Let's Connect!**
 <p align="left">
-  <a href="https://github.com/Pareekpriya"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/priya-pareek-9a4291245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Skiee9"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayushi-chaudhary-584225234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
