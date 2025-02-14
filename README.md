@@ -13,7 +13,7 @@
 - 📚 Always learning & improving my skills in **APIs & JavaScript frameworks**  
 - 💡 Exploring **React & UI/UX design principles**  
 - 📩 Reach me at: [chaudharyayushi785@gmail.com](mailto:chaudharyayushi785@gmail.com)
-- 💻 Portfolio : (https://skiee9.github.io/ayushi-portfolio/)
+- 💻 Portfolio : https://skiee9.github.io/ayushi-portfolio/
 
 ---
 
