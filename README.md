@@ -46,5 +46,7 @@
 </p>
 
 ---
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=skiee9&show_icons=true&theme=radical)
+
 
 ⭐ **"Code. Learn. Improve. Repeat."** 
