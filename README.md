@@ -36,7 +36,7 @@
 
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=skiee9&color=blue)
+
 
 
 
