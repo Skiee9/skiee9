@@ -11,7 +11,7 @@
 - 🎯 Frontend Developer skilled in **React, HTML, CSS, JavaScript, React, Redux and ChakraUI**  
 - 🎨 Passionate about creating **beautiful & user-friendly web applications**  
 - 📚 Always learning & improving my skills in **APIs & JavaScript frameworks**  
-- 💡 Exploring **React & UI/UX design principles**  
+- 💡 Exploring **React & DSA in js**  
 - 📩 Reach me at: [chaudharyayushi785@gmail.com](mailto:chaudharyayushi785@gmail.com)
 - 💻 Portfolio : https://skiee9.github.io/ayushi-portfolio/
 
