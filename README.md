@@ -32,15 +32,6 @@
 </p>
 ---
 
-
-
-
-
-
-
-
-
-
 ### 📫 **Let's Connect!**
 <p align="left">
   <a href="https://github.com/Skiee9"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
