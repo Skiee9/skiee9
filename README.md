@@ -43,5 +43,5 @@
 
 
 
-⭐ **"Code. Learn. Improve. Repeat."** 
-**"You can tell a developer is debugging when they’re just staring at the screen.😐😂"**
+
+⭐ **"You can tell a developer is debugging when they’re just staring at the screen.😐😂"**
