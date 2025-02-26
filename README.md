@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-
+---
 ### 📫 **Let's Connect!**
 <p align="left">
   <a href="https://github.com/Skiee9"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -40,7 +40,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=skiee9&color=blue)
+
 
 
 ⭐ **"Code. Learn. Improve. Repeat."** 
