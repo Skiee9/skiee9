@@ -40,10 +40,8 @@
 
 ---
 
-
-## 📊 My GitHub Contribution Graph
-
-[![Skiee9's GitHub Contribution Graph](https://ghchart.rshah.org/Skiee9)](https://github.com/Skiee9)
+## 📊 GitHub Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiee9&theme=react-dark&area=true&hide_border=true)
 
 
 
