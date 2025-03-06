@@ -42,6 +42,8 @@
 
 ## 📊 GitHub Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiee9&theme=react-dark&area=true&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skiee9&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiee9&layout=compact&theme=radical" alt="Top Languages"/>
 
 
 
