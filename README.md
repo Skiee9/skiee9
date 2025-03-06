@@ -13,7 +13,7 @@
 - 📚 Always learning & improving my skills in **APIs & JavaScript frameworks**  
 - 💡 Exploring **React & DSA in js**  
 - 📩 Reach me at: [chaudharyayushi785@gmail.com](mailto:chaudharyayushi785@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayushi-chaudhary-584225234/)
+- 💼 LinkedIn :https://www.linkedin.com/in/ayushi-chaudhary-584225234/
 - 💻 Portfolio : https://skiee9.github.io/ayushi-portfolio/
 
 ---
