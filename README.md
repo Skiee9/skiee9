@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🎯 Frontend Developer skilled in **React, HTML, CSS, JavaScript, React, Redux and ChakraUI**  
+- 🎯 Frontend Developer skilled in **HTML, CSS, JavaScript, React, Redux and ChakraUI**  
 - 🎨 Passionate about creating **beautiful & user-friendly web applications**  
 - 📚 Always learning & improving my skills in **APIs & JavaScript frameworks**  
 - 💡 Exploring **React & DSA in js**  
