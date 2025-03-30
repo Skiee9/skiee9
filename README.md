@@ -48,4 +48,12 @@
 
 
 
-⭐ *You can tell a developer is debugging when they’re just staring at the screen.😐😂*
+## 🎭 Developer Humor  
+😆 **Me debugging my code at 3 AM:**  
+```js
+// Why is this not working?!! 😤
+if (bug === "fixed") {
+    console.log("Life is good! 🎉");
+} else {
+    console.log("Why God, why?! 😭");
+}
