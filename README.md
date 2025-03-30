@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🎯 Frontend Developer skilled in **HTML, CSS, JavaScript, React, Redux ChakraUI and MaterialUI**  
+- 🎯 Frontend Developer skilled in **HTML, CSS, JavaScript, React, Redux,ChakraUI and MaterialUI**  
 - 🎨 Passionate about creating **beautiful & user-friendly web applications**  
 - 📚 Always learning & improving my skills in **APIs & JavaScript frameworks**  
-- 💡 Exploring **Nextjs and DSA in js**  
+- 💡 Exploring **Nextjs, Typescript and DSA in js**  
 - 📩 Reach me at: [chaudharyayushi785@gmail.com](mailto:chaudharyayushi785@gmail.com)
 - 💼 LinkedIn :https://www.linkedin.com/in/ayushi-chaudhary-584225234/
 - 💻 Portfolio : https://skiee9.github.io/ayushi-portfolio/
