@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayushi 👋</h1>
-<h3 align="center">Frontend Developer | Passionate About Crafting Interactive & Responsive Web Experiences 🚀⚡</h3>
+<h3 align="center">Full Stack Developer | Passionate About Crafting Interactive & Responsive Web Experiences 🚀⚡</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+🎨💻;Web+Development+Enthusiast+🚀;Building+Engaging+Digital+Experiences+⚡" />
