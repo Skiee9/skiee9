@@ -43,6 +43,7 @@
 
 ## 📊 GitHub Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiee9&theme=react-dark&area=true&hide_border=true)
+https://camo.githubusercontent.com/cc6454b0fc85208e283a03a88eb95531dfa7a7d1075a9384947f2e932fcda034/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616173746861323131322673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiee9&layout=compact&theme=radical" alt="Top Languages"/>
 
