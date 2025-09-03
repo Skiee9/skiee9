@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🎯 Frontend Developer skilled in **HTML, CSS, JavaScript, React, Redux,ChakraUI, MaterialUI, NodeJS, ExpressJS, MongoDb**  
+- 🎯 Full Stack Developer skilled in **HTML, CSS, JavaScript, React, Redux,ChakraUI, MaterialUI, NodeJS, ExpressJS, MongoDb**  
 - 🎨 Passionate about creating **beautiful & user-friendly web applications**  
 - 📚 Always learning & improving my skills in **APIs & JavaScript frameworks**  
 - 💡 Exploring **Nextjs**  
@@ -47,7 +47,7 @@
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiee9&layout=compact&theme=radical" alt="Top Languages"/>
+                           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiee9&layout=compact&theme=radical" alt="Top Languages"/>
 
 
 
