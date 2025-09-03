@@ -42,12 +42,10 @@
 ---
 
 ## 📊 GitHub Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiee9&theme=react-dark&area=true&hide_border=true)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skiee9&show_icons=true&theme=tokyonight)](https://github.com/skiee9)
+                             ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiee9&theme=react-dark&area=true&hide_border=true)
+                                  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=skiee9&show_icons=true&theme=tokyonight)](https://github.com/skiee9)
 
 
-
-                           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiee9&layout=compact&theme=radical" alt="Top Languages"/>
 
 
 
