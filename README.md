@@ -43,18 +43,9 @@
 
 ## 📊 GitHub Contribution Graph and Stat
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiee9&theme=react-dark&area=true&hide_border=true)
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skiee9&show_icons=true&theme=tokyonight)
 
 
 
 
 
-## 🎭 Developer Humor  
-😆 **Me debugging my code at 3 AM:**  
-```js
-// Why is this not working?!! 😤
-if (bug === "fixed") {
-    console.log("Life is good! 🎉");
-} else {
-    console.log("Why God, why?! 😭");
-}
+
