@@ -43,6 +43,7 @@
 
 ## 📊 GitHub Contribution Graph and Stat
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skiee9&theme=react-dark&area=true&hide_border=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skiee9&layout=compact&theme=radical)
 
 
 
